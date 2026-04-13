@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, University of Houston Clear Lake, 2027 (expected)
+* B.S. in Information Technology Management, University of Houston Clear Lake, 2025
 
 Work experience
 ======
