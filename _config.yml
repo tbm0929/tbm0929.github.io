@@ -7,9 +7,9 @@
 locale: "en-US"            # Main language/locale of the site
 site_theme: "default"      # Theme skin used by the site
 
-title: "Lijing Zhu | Data Science & ML Research"   # Text shown in browser tab and SEO metadata
+title: "Timothy McGowan | Data Science & ML Student"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
-name: "Lijing Zhu"         # Main name shown across the site
+name: "Timothy McGowan"         # Main name shown across the site
 description: "Academic portfolio and research in data science and machine learning"  # Short site description for search engines
 
 # -------------------------
@@ -17,7 +17,7 @@ description: "Academic portfolio and research in data science and machine learni
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "https://lijingzhu1.github.io"
+url: "https://tbm0929.github.io"
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,25 +26,25 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "lijingzhu1/lijingzhu1.github.io"
+repository: "tbm0929/tbm0929.github.io"
 
 # -------------------------
 # Author profile information
 # -------------------------
 author:
-  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
-  name: "Lijing Zhu"
-  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
+  avatar: "contrast-1600-x-1200.webp"    # Profile image file shown in the sidebar/profile area
+  name: "Timothy McGowan"
+  bio: "Graduate Student at University of Houston-Clear Lake in Data Science."
   location: "TX"
   employer: "University of Houston-Clear Lake"
-  email: "zhul@uhcl.edu"
+  email: "tbm0929@gmail.com"
 
   # Professional / academic links
   # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+  @googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
+  github: "tbm0929"
+  linkedin: "https://www.linkedin.com/in/timothy-mcgowan-299334191/"
+  #orcid: "https://orcid.org/0009-0002-7107-2880"
 
 # -------------------------
 # General behavior
