@@ -62,3 +62,39 @@ author_profile: true
 |------------|-----------------------------------------------|
 | MGMT 3301  | Management Theory and Practice                |
 | MGMT 3313  | Organizational Communication                  |
+
+
+# Graduate Coursework — University of Houston-Clear Lake
+
+**Degree:** Master of Science (In Progress)  
+**Program:** Data Science  
+**Cumulative GPA:** 3.778
+
+---
+
+## Data Science (DASC) Courses
+
+| Course     | Title                                         |
+|------------|-----------------------------------------------|
+| DASC 5131  | Data Programming in Python                    |
+| DASC 5133  | Intro to Data Science                         |
+| DASC 5231  | Data Visualization                            |
+| DASC 5431  | Data Analytics & Machine Learning             |
+| DASC 5333  | Database Systems for Data Science             |
+| DASC 5931  | Research Topics: Natural Language Processing  |
+
+---
+
+## Statistics (STAT) Course
+
+| Course     | Title                                         |
+|------------|-----------------------------------------------|
+| STAT 5135  | Applied Statistical Methods                   |
+
+---
+
+## Computer Engineering (CENG) Course
+
+| Course     | Title                                         |
+|------------|-----------------------------------------------|
+| CENG 5437  | Mobile Robots                                 |
