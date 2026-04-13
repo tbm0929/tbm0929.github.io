@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Lijing Zhu"
+title: "About Timothy McGowan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor at the [University of Houston-Clear Lake](https://www.uhcl.edu/). I earned my Ph.D. in Data Science from [Bowling Green State University](https://www.bgsu.edu/). My work focuses on machine learning, graph-based deep learning, and applied data science, with an emphasis on building practical data-driven methods for real-world problems.
+I am a Graduate Student at the [University of Houston-Clear Lake](https://www.uhcl.edu/). I earned my Undergraduate in Information Technology Management from [University of Houston-Clear Lake](https://www.uhcl.edu/). My work focuses on IT Management, and Cyber Security with an emphasis on disaster recovery.
 
 My research interests include machine learning, graph-based modeling, and intelligent data-driven systems. I am particularly interested in developing computational methods that connect theory with application and support meaningful analysis, decision-making, and problem solving in real settings.
 
