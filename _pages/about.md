@@ -26,12 +26,6 @@ Relevant coursework: Ethical Hacking, Computer Security & Disaster Recovery, Scr
 
 ---
 
-## 💼 Professional Background
-
-I spent nearly a decade at the **U.S. Food and Drug Administration (FDA)** as a GS-2210 IT Specialist, where I stood up the agency's first infrastructure configuration management program and led a team of 34 federal IT specialists supporting roughly 22,000 users nationwide. After that, I moved into consulting — first as an HP Service Manager SME supporting FDA and HHS through Versa Integrated Solutions, and later as an independent IT consultant helping organizations sharpen their ITIL processes, change management, and service delivery frameworks.
-
----
-
 ## 🔧 Technical Skills
 
 | Area | Skills |
@@ -42,17 +36,6 @@ I spent nearly a decade at the **U.S. Food and Drug Administration (FDA)** as a 
 | **Security** | CompTIA Security+, Cyber Security, Ethical Hacking, Forensics, Disaster Recovery |
 | **Networking** | TCP/IP, DNS, DHCP, Cisco, Firewall Administration, Windows & Solaris administration |
 | **Development** | Python, JavaScript, Bash/PowerShell, SQL, Visual Basic |
-
----
-
-## 📜 Certifications
-
-- ITIL Service Management Foundation  
-- CompTIA Network+  
-- CompTIA Security+  
-- HP Service Center 6.x: Essentials & Tailoring  
-- Performance Based Service Contracting  
-- FDA FAME Leadership Skills I & II
 
 ---
 
