@@ -63,16 +63,16 @@ Coordinated large-scale modification projects covering server consolidation, fau
 🔧 Skills
 AreaSkillsData SciencePython (pandas, numpy, scikit-learn), Machine Learning, NLP, Data Visualization, Statistical AnalysisLocal-First AILocal LLM deployment (Qwen3), prompt engineering, model evaluation on constrained hardwareService ManagementHP Service Manager (HPSM) administration & tailoring, ITIL v3 Foundation, SLA development, ITSM process designNetworkingTCP/IP, DNS, DHCP, Cisco, Firewall Administration, Solaris 9, Windows OSSecurityCompTIA Security+, Cyber Security fundamentals, Ethical Hacking, Computer Forensics, Disaster RecoveryDevelopmentPython, JavaScript, Visual Basic, Bash/PowerShell, SQL, UI DevelopmentProductivityMicrosoft Office (Excel, Word, PowerPoint, Access, Project, Visio), Business Objects XI
 
-📜 Certifications & Training
+## 📜 Certifications
 
-ITIL Service Management Foundation
-CompTIA Network+
-CompTIA Security+
-HP Service Center 6.x: Essentials & Tailoring
-Business Objects XI R1/R2: Universe Design
-Solaris 9 Administration & Fundamentals
-Performance Based Service Contracting
-FDA FAME Leadership Skills I & II
+- ITIL Service Management Foundation  
+- CompTIA Network+  
+- CompTIA Security+  
+- HP Service Center 6.x: Essentials & Tailoring  
+- Performance Based Service Contracting  
+- FDA FAME Leadership Skills I & II
+
+---
 
 
 References available upon request.
