@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Timothy McGowan"
 author_profile: true
 redirect_from:
