@@ -20,13 +20,13 @@ author_profile: true
 | ITEC 1310  | Intro to IT                                   |
 | ITEC 2381  | Forensics Fundamentals                        |
 | ITEC 3365  | Network Fundamentals                          |
-| ITEC 2313  | Scripting I                                   |
+| ITEC 2313  | Scripting I (Python)                          |
 | ITEC 3388  | Cyber Security I                              |
 | ITEC 4366  | Computer Security & Disaster Recovery         |
-| ITEC 3312  | Scripting II                                  |
+| ITEC 3312  | Scripting II (Python)                         |
 | ITEC 4383  | Cyber Security II                             |
 | ITEC 4391  | Selected Topics: Ethical Hacking              |
-| ITEC 3335  | Database Development                          |
+| ITEC 3335  | Database Development (SQLite, MySQL)          |
 | ITEC 4342  | IT Project Management                         |
 | ITEC 2351  | Web Fundamentals                              |
 | ITEC 4379  | Internship in Information Technology          |
