@@ -11,6 +11,8 @@ I am a graduate student at the **[University of Houston–Clear Lake](https://ww
 
 My work sits at the intersection of enterprise IT leadership, data science, and applied AI. Over more than 25 years in the field, I've led infrastructure programs, managed federal IT teams, designed ITSM workflows, and negotiated SLAs at scale. On the research and applied side, I'm deepening my skills in machine learning, natural language processing, and statistical modeling — and I run a local LLM deployment (Qwen3) on my own hardware to explore model behavior hands-on, outside of any classroom setting.
 
+My research interests include local-first AI — specifically how large language models behave when deployed outside of cloud environments and on constrained, consumer-grade hardware. I run Qwen3 locally on my own gaming rig, which gives me a hands-on feel for things like inference performance, prompt sensitivity, and model behavior that you just don't get from an API call. That practical layer sits alongside my academic work in machine learning and natural language processing, and honestly, the two feed each other in ways I didn't expect going in.
+
 ---
 
 ## 🎓 Education
